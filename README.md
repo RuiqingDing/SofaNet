@@ -4,7 +4,7 @@ Cross-center Early Sepsis Recognition by Medical Knowledge Guided Collaborative 
 
 ## Framework
 
-![SofaNet] (img/SofaNet.png)
+![SofaNet](img/SofaNet.png)
 
 
 ## Requirements
