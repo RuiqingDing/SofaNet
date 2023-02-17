@@ -2,6 +2,9 @@
 
 Cross-center Early Sepsis Recognition by Medical Knowledge Guided Collaborative Learning for Data-scarce Hospitals
 
+Please read the paper here: <https://arxiv.org/abs/2302.05702>
+
+
 ## Framework
 
 ![SofaNet](img/SofaNet.png)
